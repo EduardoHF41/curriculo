@@ -1,0 +1,45 @@
+.fundo{
+    background-color: black;
+}
+.contatos a{
+    color: white;
+    text-decoration: none;
+}
+.contatos{
+    border-style: solid;
+    text-align: center;
+}
+div{
+    color: white;
+}
+
+main{
+    text-align: center;
+}
+p#tamanhofonte{
+    font-size: 15px;
+}
+#tamanhofonte{
+    border-style: solid;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    padding-bottom: 18px;
+}
+#nomecentro{
+    text-align: center;
+}
+#sobremim{
+    border-style: solid;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+#experiencia{
+    border-style: solid;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+#educacao{
+    border-style: solid;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
